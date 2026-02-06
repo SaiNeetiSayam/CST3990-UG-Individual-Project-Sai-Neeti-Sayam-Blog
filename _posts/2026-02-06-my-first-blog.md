@@ -1,8 +1,7 @@
 ---
-Layout: post
-Title: "CST3990 UG Individual Project by Sai Neeti Sayam - Cloud Kitchen Website"
-Author: Sai Neeti Sayam
-Week: Week 3 
+layout: post
+title: "CST3990 UG Individual Project by Sai Neeti Sayam - Cloud Kitchen Website"
+author: Sai Neeti Sayam 
 ---
 
 ## Abstract
